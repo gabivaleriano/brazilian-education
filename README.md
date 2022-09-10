@@ -1,1 +1,3 @@
 # brazilian-education
+
+In a democracy, the public sphere shall influence the State decision-making and citizens participation is essential in this process. The media has a fundamental role in organizing an open and impartial dialogue that relies on experts knowledge. In this article we adopted topic modeling to identify relevant issues in a collection of interviews organized by a public television in the Brazilian pre-election period in October 2018. Our findings offer insights to assist public policies development in Education in Brazil, indicating that attention to simple issues can contribute to a systemic improvement. In this way, the teacher is the actor that needs more attention towards an improvement process.
