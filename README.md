@@ -7,12 +7,12 @@ This repository contains two Jupyter notebooks and two .csv files.
 ### topics_news
 
 Contains the code to retrieve news articles from the Ministry of Education website during the period 2019-2022. 
-It also includes the code used to process the data and extract codes.
+It also includes the code used to process the data and extract topics.
 
 ### topic_interviews
 
 Contains the code to retrieve automatically generated subtitles from a collection of news on a YouTube channel. 
-It also includes the code used to process the data and extract codes.
+It also includes the code used to process the data and extract topics.
 
 ## .csv files
 
